@@ -296,7 +296,7 @@ git push origin main
 
 ## Parcial 2 — Consumo de API (completar por el estudiante)
 
-**Nombre:** _________________________________ · **Carnet:** ______________
+**Nombre:** MORENO MEJIA HECTOR ANTONIO · **Carnet:** 25-4370-2023
 
 ### Salida de consola (segunda ejecución)
 
